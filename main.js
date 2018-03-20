@@ -1,9 +1,18 @@
 javascriptFunctions
 some helpful javascript functions
 
+//to make a word Uppercase
+
+var toUpperCase = param => param[0].toUpperCase()+param.slice(1,param.length);
 
 /*   
+*
+*
+*
 Here's some useful functions to convert / extract dictionaries to / from arrays 
+*
+*
+*
 */
 
 
