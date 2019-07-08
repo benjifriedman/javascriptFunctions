@@ -5,15 +5,7 @@ some helpful javascript functions
 
 var toUpperCase = param => param[0].toUpperCase()+param.slice(1,param.length);
 
-/*   
-*
-*
-*
-Here's some useful functions to convert / extract dictionaries to / from arrays 
-*
-*
-*
-*/
+/*   Here's some useful functions to convert / extract dictionaries to / from arrays  */
 
 
 var testArray = ["one","two","three","apple","banana"];
